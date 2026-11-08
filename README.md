@@ -7,6 +7,8 @@
 
 ## 🌐 Try it Online
 
+**Live app:** [open-generative-ai-drab.vercel.app](https://open-generative-ai-drab.vercel.app/)
+
 Use the studios (Image, Video, Audio, AI Clipping, Vibe Motion, Lip Sync, Cinema, Marketing, Workflows, Agents, Design Agent, and Apps) in the browser. A MuAPI key is entered in the app on first use.
 
 ---
