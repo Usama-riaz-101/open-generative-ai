@@ -31,6 +31,9 @@ release/
 .next/
 out/
 
+# vercel
+.vercel
+
 # Misc
 *.pem
 .env
